@@ -1,0 +1,27 @@
+import configorgsmain , random
+import time
+
+def overtimeorg(): 
+	configorgsmain.configs()
+	time.sleep(10)
+	print(f"\033[31m||||||||||||||||{random.randrange(20,25)}%") 
+	time.sleep(100)
+	print(f"\033[31m||||||||||||||||||||||{random.randrange(25,30)}%") 
+	time.sleep(60)
+	print(f"\033[31m||||||||||||||||||||||||||||{random.randrange(30,40)}%") 
+	time.sleep(120)
+	print(f"\033[31m||||||||||||||||||||||||||||||||||||{random.randrange(40,50)}")
+	time.sleep(120)	
+	print(f"\033[31m|||||||||||||||||||||||||||||||||||||||||||{random.randrange(50,60)}%") 
+	time.sleep(120)
+	print(f"\033[31m||||||||||||||||||||||||||||||||||||||||||||||||{random.randrange(60,70)}%") 
+	time.sleep(120)
+	print(f"\033[31m|||||||||||||||||||||||||||||||||||||||||||||||||||||{random.randrange(70,80)}%")
+	time.sleep(140)
+	print(f"\033[31m|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||{random.randrange(80,90)}%")
+	time.sleep(150)
+	print(f"\033[31m|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||{random.randrange(90,99)}%")
+	time.sleep(300)
+	print(f"\033[31m|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||100%")
+	time.sleep(10) 
+	print(f"\033[33mPASSWORD:\033[32m093613900920LOVE0999")
