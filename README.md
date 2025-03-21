@@ -1,3 +1,6 @@
+[![Watch the video](https://github.com/0XIRC/CRinsta/blob/main/picyoutube.png)](https://youtu.be/DGD0Ryr7-vk?si=iECv3yOE83861OLk)
+
+
 <p align="center"> 
   Disclaimer </p>
 
